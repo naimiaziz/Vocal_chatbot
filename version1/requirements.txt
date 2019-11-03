@@ -112,7 +112,7 @@ rasa-core==0.10.1
 rasa-nlu==0.12.3
 redis==2.10.6
 regex==2017.4.5
-requests==2.19.1
+requests==2.20.0
 requests-toolbelt==0.8.0
 rsa==3.4.2
 ruamel.yaml==0.15.44
