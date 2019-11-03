@@ -107,7 +107,7 @@ python-dateutil==2.7.3
 python-telegram-bot==10.1.0
 python-vlc==3.0.102
 pytz==2018.5
-PyYAML==3.13
+PyYAML==5.1
 rasa-core==0.10.1
 rasa-nlu==0.12.3
 redis==2.10.6
