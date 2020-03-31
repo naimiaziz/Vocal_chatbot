@@ -12,7 +12,7 @@ autobahn==18.6.1
 Automat==0.7.0
 beautifulsoup4==4.6.0
 billiard==3.5.0.4
-bleach==1.5.0
+bleach==3.1.4
 boto3==1.7.62
 botocore==1.10.62
 cachetools==2.1.0
