@@ -27,7 +27,7 @@ ConfigArgParse==0.13.0
 constantly==15.1.0
 converter==1.0.0
 credentials==1.1
-cryptography==2.2.2
+cryptography==3.2
 cycler==0.10.0
 cymem==1.31.2
 Cython==0.27.3
